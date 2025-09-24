@@ -1,4 +1,4 @@
-`How to install laravel and Next Js`
+## How to install laravel and Next Js
 
 First we need to start by creating a laravel project using the following command
 
@@ -6,8 +6,7 @@ First we need to start by creating a laravel project using the following command
 
 or
 
-```bash
-composer create-project laravel/laravel backend - no specific laravel version
+```composer create-project laravel/laravel backend - no specific laravel version
 
 Where `backend= folder name of your own choosing`
 
