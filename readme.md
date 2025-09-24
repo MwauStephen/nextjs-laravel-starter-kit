@@ -6,7 +6,9 @@ First we need to start by creating a laravel project using the following command
 
 or
 
-`` composer create-project laravel/laravel backend - no specific laravel version
+```bash
+composer create-project laravel/laravel backend - no specific laravel version
+
 Where `backend= folder name of your own choosing`
 
 Above command creates a laravel project in a folder called `backend` and given that after installing laravel with above method,it comes with its default templating `Engine` called `blade` and we currently only need `Laravel as a backend without the blade because it will be replaced with next js`.
